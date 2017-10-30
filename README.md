@@ -1,2 +1,3 @@
 # Joinmarket-On-Windows10
 This repository has been made to share my experiences in installing the Joinmarket on Winodws 10.  
+I was trying to install the latest version (Version 0.2.3),but it was not "verified". Which means that the post was not properly signed by the committer whoever he was.  This made me very hesitant about using this version!  Another perplexing thing is that the tutorials or the technical guides about the "installing of joinmarket on Windows" was very poorly written.  Look at the numbering of the tittles!  And after installing, I got several errors from the start!  I lost quite a time to figure out what is wrong!    
